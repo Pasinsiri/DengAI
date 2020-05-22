@@ -1,5 +1,5 @@
 # DengAI
-The notebooks I created while participating in the DengAI, The Dengue Disease Prediction Data, hosted by DrivenData
+The notebooks I created while participating in the DengAI, The Dengue Disease Prediction Data, hosted by DrivenData.
 
 # About the competition
 DengAI is the data science online competition hosted by the DrivenData. The goal of this competition is to predict the number of Dengue case occurrences in two cities.
